@@ -1,4 +1,4 @@
-# Zenodo metadata — submission-stage version 1.0.0
+# Zenodo metadata — maintenance version 1.0.1
 
 **Resource type:** Software
 
@@ -17,15 +17,15 @@ Analysis code, aggregate-safe source tables, and publication figure code support
 **Keywords:**
 venous thromboembolism; thrombophilia; Factor V Leiden; prothrombin G20210A; electronic health records; genomics; All of Us Research Program; reproducibility
 
-**Version:** 1.0.0
+**Version:** 1.0.1
 
-**Release purpose:** Public manuscript-submission and peer-review materials. Publication of this software record does not imply journal acceptance.
+**Release purpose:** Documentation and packaging correction to the public v1.0.0 manuscript-review materials. Scientific outputs are unchanged. Publication of this software record does not imply journal acceptance.
 
 **Access:** Public files and metadata.
 
 **Publication date:** Use the actual deposit/release date.
 
-**DOI:** Use the DOI assigned by Zenodo; do not invent a DOI or add a placeholder identifier.
+**DOI:** Use the new version DOI assigned by Zenodo. The prior v1.0.0 DOI is 10.5281/zenodo.22715380; the release-series DOI is 10.5281/zenodo.22715379. Do not label the previous version DOI as the v1.0.1 DOI.
 
 **Funding:**
 - NIH/NIGMS 5R35GM149345
@@ -35,8 +35,8 @@ venous thromboembolism; thrombophilia; Factor V Leiden; prothrombin G20210A; ele
 - Journal article DOI — add after the article is published; it is not required for this software release.
 - GitHub repository/release URL — use the actual URL when the repository exists.
 
-**License:** Select the intended reuse terms in the deposit. No license was assigned by this packaging update.
+**License:** The existing v1.0.0 record lists CC BY 4.0. Confirm the intended reuse terms for this new version; this packaging update does not assign a new repository license.
 
-**Archiving route:** Prefer the GitHub–Zenodo integration for the v1.0.0 tag. The accompanying Zenodo ZIP is an equivalent alternative for manual deposit; do not create a second record for the same version after successful automatic archiving.
+**Archiving route:** Prefer the GitHub–Zenodo integration for the new v1.0.1 tag, within the same release series. Do not create a separate duplicate record after successful automatic archiving.
 
 **Provenance:** The deposited clinical concepts were reconstructed from locked CDR plus original rules. Historical optional 05A/05A1 manual-override files were not recovered. Retain this qualification in the deposit description or linked reproducibility notes.

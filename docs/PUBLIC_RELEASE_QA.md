@@ -1,3 +1,19 @@
+# v1.0.1 maintenance validation — September 11, 2026
+
+Base public commit: `910a506ba66a4861eb1832bda6155fb6f06d1065`.
+
+- Restored both omitted repository support files from the prepared source package.
+- Retained one concise README phenotype-provenance section and its link to detailed reproducibility notes.
+- Verified that all 56 scientific scripts, data, figures, phenotype files, and environment records are byte-identical to the public base commit.
+- Parsed citation YAML and checked software version 1.0.1, repository URL, and all-versions DOI.
+- Regenerated and verified the full release checksum manifest.
+- Applied the upload patch to a clean copy of the public base tree and checked that it reconstructs the corrected tree exactly.
+- No participant-level analyses or R figure rendering were rerun. No GitHub release or Zenodo record was modified by preparing this patch.
+
+The entries below describe the original prepared package before its initial browser upload; they are retained as historical validation context. The public v1.0.0 upload omitted the two restored support files and later changed README text without refreshing its manifest. Those packaging differences are corrected here.
+
+---
+
 # Submission-release validation — September 11, 2026
 
 | Check | Result |

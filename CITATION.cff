@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use these materials, please cite this software release and the associated article when available."
 title: "All of Us VTE clinical-genetic burden reproducibility materials"
 type: software
-version: 1.0.0
+version: 1.0.1
 authors:
   - family-names: Saarunya
     given-names: Geetha
@@ -22,3 +22,8 @@ keywords:
   - electronic health records
   - genomics
   - All of Us Research Program
+repository-code: "https://github.com/GeethaSaarunya/allofus-vte-thrombophilia"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22715379
+    description: "All-versions Zenodo record for this software release series"

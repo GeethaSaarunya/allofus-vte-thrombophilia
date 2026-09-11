@@ -75,7 +75,7 @@ The deposited VTE and clinical-risk concept specifications were reconstructed fr
 
 ## Citation
 
-See `CITATION.cff`, which identifies software version **1.0.0**. Add the actual repository URL and assigned Zenodo DOI when available. Add the associated article citation after publication; a journal DOI is not needed to release these review materials.
+See `CITATION.cff` for citation metadata. The published **v1.0.0** archive is available at [10.5281/zenodo.22715380](https://doi.org/10.5281/zenodo.22715380); the [all-versions record](https://doi.org/10.5281/zenodo.22715379) links the release series. This working tree prepares **v1.0.1**, a documentation and packaging correction. Cite the version-specific DOI of the release actually used. The v1.0.1 DOI will be assigned when that release is archived.
 
 ## Funding
 
@@ -83,12 +83,8 @@ Supported by NIH/NIGMS 5R35GM149345 and NIH/NCATS UM1TR004405.
 
 ## Status
 
-**Version 1.0.0 — manuscript submission and peer-review materials.**
+**Version 1.0.1 — documentation and packaging correction.**
 
-This package is prepared for public release at manuscript submission so editors and reviewers can inspect the analysis code, aggregate source results, figures, and phenotype documentation. Use GitHub release tag **`v1.0.0`** and archive that version in Zenodo. Journal acceptance is not a prerequisite for this release, and the software version does not imply that the article is accepted or published.
+The v1.0.0 release is already public. This update restores two omitted repository support files, removes the duplicate README provenance section, and refreshes release metadata and checksums. Scientific scripts, aggregate results, figures, and phenotype specifications are unchanged. Publish this correction under **`v1.0.1`**, preserving the existing v1.0.0 tag and archive. The software release does not imply journal acceptance.
 
 See [Reviewer guide](docs/REVIEWER_GUIDE.md), [release notes](docs/RELEASE_NOTES.md), and [release steps](docs/RELEASE_CHECKLIST.md). Any later substantive revision should receive a new release version so the reviewed snapshot remains identifiable.
-
-## Phenotype reconstruction provenance
-
-The historical local V2 project directory was no longer mounted when the phenotype specifications were prepared for repository deposit. Scripts 03 and 04 therefore reconstruct the vocabulary-level concept specifications from the locked CDR using the original curation logic. The clinical source-discovery audit did not recover the historical optional 05A/05A1 manual-override CSVs; this is documented explicitly in `phenotypes/clinical/04_source_discovery.csv`.
