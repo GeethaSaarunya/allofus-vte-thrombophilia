@@ -71,6 +71,8 @@ The final ancestry-stratified sensitivity results are in `data/aggregate/ancestr
 
 ## Phenotype specification provenance
 
+## Phenotype specification provenance
+
 The deposited VTE and clinical-risk concept specifications were reconstructed from All of Us CDR v8 (C2024Q3R9) using the study’s rule-based curation procedures. The repository includes reconstruction scripts, concept-disposition tables, and accompanying source-discovery and quality-control records. Additional methodological details are provided in the [reproducibility notes](docs/REPRODUCIBILITY.md).
 
 
