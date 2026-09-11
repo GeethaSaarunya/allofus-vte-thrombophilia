@@ -1,0 +1,11 @@
+path,exists,source,priority,excluded_path,schema_valid,original_05B_qc_valid,validation
+/home/jupyter/05B_vte_concept_disposition_internal.csv,False,known_path,1,False,False,False,missing
+/home/jupyter/05B_vte_concept_disposition.csv,False,known_path,2,False,False,False,missing
+/home/jupyter/internal/qc/05B_vte_concept_disposition_internal.csv,False,known_path,1,False,False,False,missing
+/home/jupyter/outputs/aggregate_safe/05B_vte_concept_disposition.csv,False,known_path,2,False,False,False,missing
+05B_vte_concept_disposition_internal.csv,False,known_path,1,False,False,False,missing
+05B_vte_concept_disposition.csv,False,known_path,2,False,False,False,missing
+internal/qc/05B_vte_concept_disposition_internal.csv,False,known_path,1,False,False,False,missing
+outputs/aggregate_safe/05B_vte_concept_disposition.csv,False,known_path,2,False,False,False,missing
+/home/jupyter/workspace/VTE_CDRv9_omics_extension/internal/curation/01_05B_vte_concept_disposition_internal.csv,True,auto_discovery,1,True,False,False,rejected unrelated project path
+workspace/VTE_CDRv9_omics_extension/internal/curation/01_05B_vte_concept_disposition_internal.csv,True,auto_discovery,1,True,False,False,rejected unrelated project path

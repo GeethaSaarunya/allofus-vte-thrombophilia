@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='619.20pt' height='763.20pt' viewBox='0 0 619.20 763.20'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw2MTkuMjB8MC4wMHw3NjMuMjA='>
+    <rect x='0.00' y='0.00' width='619.20' height='763.20' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw2MTkuMjB8MC4wMHw3NjMuMjA=)'>
+<rect x='86.69' y='45.79' width='445.82' height='122.11' style='stroke-width: 0.90; stroke: #CC79A7; fill: #CC79A7; fill-opacity: 0.18;' />
+<text x='309.60' y='92.06' text-anchor='middle' style='font-size: 20.00px; font-weight: bold; font-family: "Arial";' textLength='273.38px' lengthAdjust='spacingAndGlyphs'>Eligible All of Us EHR cohort</text>
+<text x='309.60' y='121.13' text-anchor='middle' style='font-size: 16.00px; font-family: "Arial";' textLength='372.58px' lengthAdjust='spacingAndGlyphs'>Adults with pre-enrollment clinical-risk ascertainment</text>
+<text x='309.60' y='152.40' text-anchor='middle' style='font-size: 18.00px; font-weight: bold; font-family: "Arial";' textLength='96.57px' lengthAdjust='spacingAndGlyphs'>n = 483,707</text>
+<rect x='390.10' y='248.04' width='185.76' height='145.01' style='stroke-width: 0.90; stroke: #E69F00; fill: #E69F00; fill-opacity: 0.18;' />
+<text x='482.98' y='282.80' text-anchor='middle' style='font-size: 16.00px; font-weight: bold; font-family: "Arial";' textLength='111.12px' lengthAdjust='spacingAndGlyphs'>Excluded from</text>
+<text x='482.98' y='303.10' text-anchor='middle' style='font-size: 16.00px; font-weight: bold; font-family: "Arial";' textLength='105.80px' lengthAdjust='spacingAndGlyphs'>WGS analysis</text>
+<text x='482.98' y='329.56' text-anchor='middle' style='font-size: 13.00px; font-family: "Arial";' textLength='172.67px' lengthAdjust='spacingAndGlyphs'>No qualifying short-read WGS</text>
+<text x='482.98' y='348.41' text-anchor='middle' style='font-size: 13.00px; font-family: "Arial";' textLength='166.94px' lengthAdjust='spacingAndGlyphs'>for targeted genetic analyses</text>
+<text x='482.98' y='378.86' text-anchor='middle' style='font-size: 17.00px; font-weight: bold; font-family: "Arial";' textLength='91.20px' lengthAdjust='spacingAndGlyphs'>n = 125,174</text>
+<rect x='136.22' y='396.86' width='346.75' height='122.11' style='stroke-width: 0.90; stroke: #CC79A7; fill: #CC79A7; fill-opacity: 0.18;' />
+<text x='309.60' y='443.14' text-anchor='middle' style='font-size: 20.00px; font-weight: bold; font-family: "Arial";' textLength='200.07px' lengthAdjust='spacingAndGlyphs'>WGS analysis cohort</text>
+<text x='309.60' y='472.21' text-anchor='middle' style='font-size: 16.00px; font-family: "Arial";' textLength='291.24px' lengthAdjust='spacingAndGlyphs'>Linked EHR + qualifying short-read WGS</text>
+<text x='309.60' y='503.47' text-anchor='middle' style='font-size: 18.00px; font-weight: bold; font-family: "Arial";' textLength='96.57px' lengthAdjust='spacingAndGlyphs'>n = 358,533</text>
+<rect x='55.73' y='618.19' width='198.14' height='122.11' style='stroke-width: 0.90; stroke: #CC79A7; fill: #CC79A7; fill-opacity: 0.18;' />
+<text x='154.80' y='671.79' text-anchor='middle' style='font-size: 20.00px; font-weight: bold; font-family: "Arial";' textLength='136.74px' lengthAdjust='spacingAndGlyphs'>Observed VTE</text>
+<text x='154.80' y='724.80' text-anchor='middle' style='font-size: 18.00px; font-weight: bold; font-family: "Arial";' textLength='76.55px' lengthAdjust='spacingAndGlyphs'>n = 7,553</text>
+<rect x='321.98' y='618.19' width='198.14' height='122.11' style='stroke-width: 0.90; stroke: #E69F00; fill: #E69F00; fill-opacity: 0.18;' />
+<text x='421.06' y='669.35' text-anchor='middle' style='font-size: 20.00px; font-weight: bold; font-family: "Arial";' textLength='171.14px' lengthAdjust='spacingAndGlyphs'>No qualifying VTE</text>
+<text x='421.06' y='694.76' text-anchor='middle' style='font-size: 16.00px; font-family: "Arial";' textLength='112.96px' lengthAdjust='spacingAndGlyphs'>during follow-up</text>
+<text x='421.06' y='724.80' text-anchor='middle' style='font-size: 18.00px; font-weight: bold; font-family: "Arial";' textLength='96.57px' lengthAdjust='spacingAndGlyphs'>n = 350,980</text>
+<polyline points='309.60,167.90 309.60,396.86 ' style='stroke-width: 1.12;' />
+<polygon points='305.28,389.38 309.60,396.86 313.92,389.38 ' style='stroke-width: 1.12; fill: #FFFFFF;' />
+<polyline points='309.60,297.65 387.00,297.65 ' style='stroke-width: 1.12;' />
+<polygon points='380.76,301.25 387.00,297.65 380.76,294.05 ' style='stroke-width: 1.12; fill: #FFFFFF;' />
+<polyline points='309.60,518.98 191.95,618.19 ' style='stroke-width: 1.12;' />
+<polygon points='194.89,610.07 191.95,618.19 200.46,616.67 ' style='stroke-width: 1.12; fill: #FFFFFF;' />
+<polyline points='309.60,518.98 365.33,618.19 ' style='stroke-width: 1.12;' />
+<polygon points='357.90,613.78 365.33,618.19 365.43,609.55 ' style='stroke-width: 1.12; fill: #FFFFFF;' />
+</g>
+</svg>

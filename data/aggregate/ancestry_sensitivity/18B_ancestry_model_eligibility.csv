@@ -1,0 +1,7 @@
+marker,ancestry,ancestry_n,min_variant_vte_2x2_cell,eligible,reason,noncarrier_no_vte,noncarrier_vte,carrier_no_vte,carrier_vte
+Factor V Leiden,EUR,202939,467,True,reportable,188163,3886,10423,467
+Factor V Leiden,AFR,64483,26,True,reportable,62153,1818,486,26
+Factor V Leiden,AMR,57346,31,True,reportable,55390,891,1034,31
+Prothrombin G20210A,EUR,202939,186,True,reportable,193049,4167,5537,186
+Prothrombin G20210A,AFR,64483,21,True,reportable,62360,1823,279,21
+Prothrombin G20210A,AMR,57346,39,True,reportable,55075,883,1349,39

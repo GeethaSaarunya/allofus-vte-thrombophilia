@@ -1,0 +1,9 @@
+file,rows,forbidden_columns,status
+phenotypes/clinical/04_clinical_concept_export_qc.csv,8,,PASS
+phenotypes/clinical/04_clinical_concept_specification_grouped.csv,13,,PASS
+phenotypes/clinical/04_clinical_concept_specification_long.csv,12114,,PASS
+phenotypes/clinical/04_source_discovery.csv,2,,PASS
+phenotypes/vte/15_TableS4_VTE_concept_ids_grouped.csv,10,,PASS
+phenotypes/vte/15_TableS4_VTE_concept_ids_long.csv,106,,PASS
+phenotypes/vte/15_concept_export_qc.csv,6,,PASS
+phenotypes/vte/15_source_discovery.csv,10,,PASS

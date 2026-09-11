@@ -1,0 +1,7 @@
+check,status,value
+original_05B_primary_concept_set_nonempty,True,70
+original_05B_strict_concept_set_nonempty,True,50
+original_05B_DVT_primary_nonempty,True,51
+original_05B_PE_primary_nonempty,True,19
+empty_exclusion_categories_allowed_by_original_05B,True,superficial=0; unusual_site=0
+participant_level_output_written,True,False

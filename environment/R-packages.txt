@@ -1,0 +1,8 @@
+R packages used by the publication renderer:
+- ggplot2
+- ragg
+- svglite
+- zip
+- grid (base/recommended)
+
+See environment/R-sessionInfo.txt for the recorded local rendering session.

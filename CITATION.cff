@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the associated article and this software release."
+title: "All of Us VTE clinical-genetic burden reproducibility materials"
+type: software
+version: 0.1.0
+authors:
+  - family-names: Saarunya
+    given-names: Geetha
+  - family-names: Steffen
+    given-names: Brian
+  - family-names: Magesh
+    given-names: Preeti
+  - family-names: Tignanelli
+    given-names: Christopher J.
+  - family-names: Costantini
+    given-names: Todd
+keywords:
+  - venous thromboembolism
+  - thrombophilia
+  - Factor V Leiden
+  - prothrombin G20210A
+  - electronic health records
+  - genomics
+  - All of Us Research Program

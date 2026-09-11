@@ -1,0 +1,6 @@
+model,effect,wald_chi2,df,p_value
+five_factor_burden_time_varying,1 clinical factor vs 0,25.89701417501701,2,2.3797691101986034e-06
+five_factor_burden_time_varying,2+ clinical factors vs 0,46.7402189128438,2,7.087456748370744e-11
+f5_rs6025_carrier_time_varying,Factor V Leiden,0.09668620015544532,2,0.952806822895004
+f2_rs1799963_carrier_time_varying,Prothrombin G20210A,3.7017852137529257,2,0.1570968779582304
+f5f2_carrier_time_varying,Either F5 or F2,1.603164925490798,2,0.44861848007660576

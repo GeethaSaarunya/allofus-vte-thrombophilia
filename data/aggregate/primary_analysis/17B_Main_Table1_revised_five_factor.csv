@@ -1,0 +1,15 @@
+section,characteristic,overall,no_vte,vte,p_value
+Study population,"Participants, N",358533,350980,7553,
+Demographics,"Age at All of Us enrollment, years, mean (SD)",53.52 (16.38),53.38 (16.40),59.72 (14.12),7.079759601224217e-297
+Demographics,Recorded gender: Female,"214,093 (59.71%)","209,911 (59.81%)","4,182 (55.37%)",1.7813650033832115e-15
+Demographics,Recorded gender: Male,"138,081 (38.51%)","134,828 (38.41%)","3,253 (43.07%)",
+Demographics,Recorded gender: Other/unknown,"6,359 (1.77%)","6,241 (1.78%)",118 (1.56%),
+Captured clinical risk factors included in five-factor burden,Cancer history,"40,494 (11.29%)","38,226 (10.89%)","2,268 (30.03%)",0.0
+Captured clinical risk factors included in five-factor burden,Major surgery,"41,469 (11.57%)","39,025 (11.12%)","2,444 (32.36%)",0.0
+Captured clinical risk factors included in five-factor burden,Inpatient hospitalization,"95,424 (26.62%)","91,096 (25.95%)","4,328 (57.30%)",0.0
+Captured clinical risk factors included in five-factor burden,Infection/sepsis,"21,346 (5.95%)","19,373 (5.52%)","1,973 (26.12%)",0.0
+Captured clinical risk factors included in five-factor burden,Fracture/major trauma,"49,071 (13.69%)","46,735 (13.32%)","2,336 (30.93%)",0.0
+Additional clinical characteristic not included in burden,Pregnancy/postpartum history,"23,568 (6.57%)","23,004 (6.55%)",564 (7.47%),0.0015350806791716136
+Five-factor clinical-risk category,0 captured factors,"220,936 (61.62%)","219,246 (62.47%)","1,690 (22.38%)",0.0
+Five-factor clinical-risk category,1 captured factor,"68,503 (19.11%)","66,598 (18.97%)","1,905 (25.22%)",
+Five-factor clinical-risk category,2 or more captured factors,"69,094 (19.27%)","65,136 (18.56%)","3,958 (52.40%)",

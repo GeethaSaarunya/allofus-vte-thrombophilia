@@ -1,0 +1,107 @@
+order,component,status,concept_id,concept_name,final_disposition,final_subtype,final_acuity,final_context,final_site_class,rationale
+1,Acute/current DVT,Included,43531681,Acute deep vein thrombosis of lower limb,RETAIN_PRIMARY_ACUTE_CURRENT,DVT,ACUTE_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained as current primary VTE.
+1,Acute/current DVT,Included,44782746,Acute deep venous thrombosis,RETAIN_PRIMARY_ACUTE_CURRENT,DVT,ACUTE_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained as current primary VTE.
+1,Acute/current DVT,Included,44782751,Acute deep venous thrombosis of axillary vein,RETAIN_PRIMARY_ACUTE_CURRENT,DVT,ACUTE_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained as current primary VTE.
+1,Acute/current DVT,Included,760875,Acute deep venous thrombosis of bilateral calves,RETAIN_PRIMARY_ACUTE_CURRENT,DVT,ACUTE_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained as current primary VTE.
+1,Acute/current DVT,Included,762417,Acute deep venous thrombosis of bilateral legs,RETAIN_PRIMARY_ACUTE_CURRENT,DVT,ACUTE_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained as current primary VTE.
+1,Acute/current DVT,Included,762004,Acute deep venous thrombosis of both upper extremities,RETAIN_PRIMARY_ACUTE_CURRENT,DVT,ACUTE_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained as current primary VTE.
+1,Acute/current DVT,Included,44782742,Acute deep venous thrombosis of calf,RETAIN_PRIMARY_ACUTE_CURRENT,DVT,ACUTE_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained as current primary VTE.
+1,Acute/current DVT,Included,44782747,Acute deep venous thrombosis of femoral vein,RETAIN_PRIMARY_ACUTE_CURRENT,DVT,ACUTE_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained as current primary VTE.
+1,Acute/current DVT,Included,44782752,Acute deep venous thrombosis of internal jugular vein,RETAIN_PRIMARY_ACUTE_CURRENT,DVT,ACUTE_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained as current primary VTE.
+1,Acute/current DVT,Included,762009,Acute deep venous thrombosis of left axillary vein,RETAIN_PRIMARY_ACUTE_CURRENT,DVT,ACUTE_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained as current primary VTE.
+1,Acute/current DVT,Included,760876,Acute deep venous thrombosis of left calf,RETAIN_PRIMARY_ACUTE_CURRENT,DVT,ACUTE_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained as current primary VTE.
+1,Acute/current DVT,Included,765540,Acute deep venous thrombosis of left femoral vein,RETAIN_PRIMARY_ACUTE_CURRENT,DVT,ACUTE_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained as current primary VTE.
+1,Acute/current DVT,Included,762418,Acute deep venous thrombosis of left lower extremity,RETAIN_PRIMARY_ACUTE_CURRENT,DVT,ACUTE_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained as current primary VTE.
+1,Acute/current DVT,Included,618482,Acute deep venous thrombosis of left peroneal vein,RETAIN_PRIMARY_ACUTE_CURRENT,DVT,ACUTE_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained as current primary VTE.
+1,Acute/current DVT,Included,765537,Acute deep venous thrombosis of left upper extremity,RETAIN_PRIMARY_ACUTE_CURRENT,DVT,ACUTE_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained as current primary VTE.
+1,Acute/current DVT,Included,762022,Acute deep venous thrombosis of politeal vein of right leg,RETAIN_PRIMARY_ACUTE_CURRENT,DVT,ACUTE_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained as current primary VTE.
+1,Acute/current DVT,Included,44782743,Acute deep venous thrombosis of popliteal vein,RETAIN_PRIMARY_ACUTE_CURRENT,DVT,ACUTE_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained as current primary VTE.
+1,Acute/current DVT,Included,762021,Acute deep venous thrombosis of popliteal vein of left leg,RETAIN_PRIMARY_ACUTE_CURRENT,DVT,ACUTE_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained as current primary VTE.
+1,Acute/current DVT,Included,762010,Acute deep venous thrombosis of right axillary vein,RETAIN_PRIMARY_ACUTE_CURRENT,DVT,ACUTE_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained as current primary VTE.
+1,Acute/current DVT,Included,760877,Acute deep venous thrombosis of right calf,RETAIN_PRIMARY_ACUTE_CURRENT,DVT,ACUTE_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained as current primary VTE.
+1,Acute/current DVT,Included,762013,Acute deep venous thrombosis of right femoral vein,RETAIN_PRIMARY_ACUTE_CURRENT,DVT,ACUTE_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained as current primary VTE.
+1,Acute/current DVT,Included,762018,Acute deep venous thrombosis of right internal jugular vein,RETAIN_PRIMARY_ACUTE_CURRENT,DVT,ACUTE_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained as current primary VTE.
+1,Acute/current DVT,Included,762419,Acute deep venous thrombosis of right lower extremity,RETAIN_PRIMARY_ACUTE_CURRENT,DVT,ACUTE_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained as current primary VTE.
+1,Acute/current DVT,Included,618681,Acute deep venous thrombosis of right peroneal vein,RETAIN_PRIMARY_ACUTE_CURRENT,DVT,ACUTE_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained as current primary VTE.
+1,Acute/current DVT,Included,762005,Acute deep venous thrombosis of right upper extremity,RETAIN_PRIMARY_ACUTE_CURRENT,DVT,ACUTE_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained as current primary VTE.
+1,Acute/current DVT,Included,44782745,Acute deep venous thrombosis of thigh,RETAIN_PRIMARY_ACUTE_CURRENT,DVT,ACUTE_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained as current primary VTE.
+1,Acute/current DVT,Included,44782744,Acute deep venous thrombosis of tibial vein,RETAIN_PRIMARY_ACUTE_CURRENT,DVT,ACUTE_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained as current primary VTE.
+1,Acute/current DVT,Included,762026,Acute deep venous thrombosis of tibial vein of left leg,RETAIN_PRIMARY_ACUTE_CURRENT,DVT,ACUTE_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained as current primary VTE.
+1,Acute/current DVT,Included,765156,Acute deep venous thrombosis of tibial vein of right leg,RETAIN_PRIMARY_ACUTE_CURRENT,DVT,ACUTE_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained as current primary VTE.
+1,Acute/current DVT,Included,44782421,Acute deep venous thrombosis of upper extremity,RETAIN_PRIMARY_ACUTE_CURRENT,DVT,ACUTE_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained as current primary VTE.
+1,Acute/current DVT,Included,44782766,Acute deep venous thrombosis of upper extremity as complication of procedure,RETAIN_PRIMARY_ACUTE_CURRENT,DVT,ACUTE_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained as current primary VTE.
+1,Acute/current DVT,Included,37109253,Bilateral acute deep vein thrombosis of femoral veins,RETAIN_PRIMARY_ACUTE_CURRENT,DVT,ACUTE_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained as current primary VTE.
+2,Acute/current PE,Included,608954,Acute cor pulmonale due to septic pulmonary embolism,RETAIN_PRIMARY_ACUTE_CURRENT,PE,ACUTE_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained as current primary VTE.
+2,Acute/current PE,Included,45768439,Acute pulmonary embolism,RETAIN_PRIMARY_ACUTE_CURRENT,PE,ACUTE_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained as current primary VTE.
+2,Acute/current PE,Included,45768888,Acute pulmonary thromboembolism,RETAIN_PRIMARY_ACUTE_CURRENT,PE,ACUTE_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained as current primary VTE.
+3,Recurrent DVT/PE,Included,46271900,Recurrent deep vein thrombosis,RETAIN_PRIMARY_RECURRENT,DVT,RECURRENT_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained in the primary phenotype.
+3,Recurrent DVT/PE,Included,4236271,Recurrent pulmonary embolism,RETAIN_PRIMARY_RECURRENT,PE,RECURRENT_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained in the primary phenotype.
+4,Postoperative DVT/PE,Included,4309333,Postoperative deep vein thrombosis,RETAIN_PRIMARY_POSTOPERATIVE,DVT,CONTEXT_CURRENT,POSTOPERATIVE,TYPICAL_OR_UNSPECIFIED,Retained in the primary phenotype.
+4,Postoperative DVT/PE,Included,4108681,Postoperative pulmonary embolus,RETAIN_PRIMARY_POSTOPERATIVE,PE,CONTEXT_CURRENT,POSTOPERATIVE,TYPICAL_OR_UNSPECIFIED,Retained in the primary phenotype.
+5,Pregnancy-associated DVT/PE,Included,435887,Antepartum deep vein thrombosis,RETAIN_PRIMARY_PREGNANCY,DVT,CONTEXT_CURRENT,PREGNANCY_ASSOCIATED,TYPICAL_OR_UNSPECIFIED,Retained in the primary phenotype.
+5,Pregnancy-associated DVT/PE,Included,438820,Deep venous thrombosis in puerperium,RETAIN_PRIMARY_PREGNANCY,DVT,CONTEXT_CURRENT,PREGNANCY_ASSOCIATED,TYPICAL_OR_UNSPECIFIED,Retained in the primary phenotype.
+5,Pregnancy-associated DVT/PE,Included,442055,Obstetric air pulmonary embolism,RETAIN_PRIMARY_PREGNANCY,PE,CONTEXT_CURRENT,PREGNANCY_ASSOCIATED,TYPICAL_OR_UNSPECIFIED,Retained in the primary phenotype.
+5,Pregnancy-associated DVT/PE,Included,442051,Obstetric air pulmonary embolism with antenatal complication,RETAIN_PRIMARY_PREGNANCY,PE,CONTEXT_CURRENT,PREGNANCY_ASSOCIATED,TYPICAL_OR_UNSPECIFIED,Retained in the primary phenotype.
+5,Pregnancy-associated DVT/PE,Included,442050,Obstetric air pulmonary embolism with postnatal complication,RETAIN_PRIMARY_PREGNANCY,PE,CONTEXT_CURRENT,PREGNANCY_ASSOCIATED,TYPICAL_OR_UNSPECIFIED,Retained in the primary phenotype.
+5,Pregnancy-associated DVT/PE,Included,433545,Obstetric blood-clot pulmonary embolism with antenatal complication,RETAIN_PRIMARY_PREGNANCY,PE,CONTEXT_CURRENT,PREGNANCY_ASSOCIATED,TYPICAL_OR_UNSPECIFIED,Retained in the primary phenotype.
+5,Pregnancy-associated DVT/PE,Included,437060,Obstetric blood-clot pulmonary embolism with postnatal complication,RETAIN_PRIMARY_PREGNANCY,PE,CONTEXT_CURRENT,PREGNANCY_ASSOCIATED,TYPICAL_OR_UNSPECIFIED,Retained in the primary phenotype.
+5,Pregnancy-associated DVT/PE,Included,435026,Obstetric pulmonary embolism,RETAIN_PRIMARY_PREGNANCY,PE,CONTEXT_CURRENT,PREGNANCY_ASSOCIATED,TYPICAL_OR_UNSPECIFIED,Retained in the primary phenotype.
+5,Pregnancy-associated DVT/PE,Included,433832,Obstetric pulmonary thromboembolism,RETAIN_PRIMARY_PREGNANCY,PE,CONTEXT_CURRENT,PREGNANCY_ASSOCIATED,TYPICAL_OR_UNSPECIFIED,Retained in the primary phenotype.
+5,Pregnancy-associated DVT/PE,Included,440477,Obstetric pyemic and septic pulmonary embolism,RETAIN_PRIMARY_PREGNANCY,PE,CONTEXT_CURRENT,PREGNANCY_ASSOCIATED,TYPICAL_OR_UNSPECIFIED,Retained in the primary phenotype.
+5,Pregnancy-associated DVT/PE,Included,439380,Obstetric pyemic and septic pulmonary embolism with antenatal complication,RETAIN_PRIMARY_PREGNANCY,PE,CONTEXT_CURRENT,PREGNANCY_ASSOCIATED,TYPICAL_OR_UNSPECIFIED,Retained in the primary phenotype.
+6,Unspecified-current DVT/PE,Included,40478951,Bilateral deep vein thrombosis of lower extremities,RETAIN_PRIMARY_UNSPECIFIED,DVT,UNSPECIFIED_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained after concept review.
+6,Unspecified-current DVT/PE,Included,4133004,Deep venous thrombosis,RETAIN_PRIMARY_UNSPECIFIED,DVT,UNSPECIFIED_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained after concept review.
+6,Unspecified-current DVT/PE,Included,763942,Deep venous thrombosis of left lower extremity,RETAIN_PRIMARY_UNSPECIFIED,DVT,UNSPECIFIED_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained after concept review.
+6,Unspecified-current DVT/PE,Included,761980,Deep venous thrombosis of left upper extremity,RETAIN_PRIMARY_UNSPECIFIED,DVT,UNSPECIFIED_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained after concept review.
+6,Unspecified-current DVT/PE,Included,443537,Deep venous thrombosis of lower extremity,RETAIN_PRIMARY_UNSPECIFIED,DVT,UNSPECIFIED_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained after concept review.
+6,Unspecified-current DVT/PE,Included,4133975,Deep venous thrombosis of pelvic vein,RETAIN_PRIMARY_UNSPECIFIED,DVT,UNSPECIFIED_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained after concept review.
+6,Unspecified-current DVT/PE,Included,40480555,Deep venous thrombosis of peroneal vein,RETAIN_PRIMARY_UNSPECIFIED,DVT,UNSPECIFIED_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained after concept review.
+6,Unspecified-current DVT/PE,Included,4322565,Deep venous thrombosis of profunda femoris vein,RETAIN_PRIMARY_UNSPECIFIED,DVT,UNSPECIFIED_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained after concept review.
+6,Unspecified-current DVT/PE,Included,763941,Deep venous thrombosis of right lower extremity,RETAIN_PRIMARY_UNSPECIFIED,DVT,UNSPECIFIED_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained after concept review.
+6,Unspecified-current DVT/PE,Included,761928,Deep venous thrombosis of right upper extremity,RETAIN_PRIMARY_UNSPECIFIED,DVT,UNSPECIFIED_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained after concept review.
+6,Unspecified-current DVT/PE,Included,4207899,Deep venous thrombosis of tibial vein,RETAIN_PRIMARY_UNSPECIFIED,DVT,UNSPECIFIED_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained after concept review.
+6,Unspecified-current DVT/PE,Included,4028057,Deep venous thrombosis of upper extremity,RETAIN_PRIMARY_UNSPECIFIED,DVT,UNSPECIFIED_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained after concept review.
+6,Unspecified-current DVT/PE,Included,4119760,Iliofemoral deep vein thrombosis,RETAIN_PRIMARY_UNSPECIFIED,DVT,UNSPECIFIED_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained after concept review.
+6,Unspecified-current DVT/PE,Included,40480461,Infarction of lung due to iatrogenic pulmonary embolism,RETAIN_PRIMARY_UNSPECIFIED,PE,UNSPECIFIED_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained after concept review.
+6,Unspecified-current DVT/PE,Included,440417,Pulmonary embolism,RETAIN_PRIMARY_UNSPECIFIED,PE,UNSPECIFIED_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained after concept review.
+6,Unspecified-current DVT/PE,Included,43530605,Pulmonary embolism with pulmonary infarction,RETAIN_PRIMARY_UNSPECIFIED,PE,UNSPECIFIED_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained after concept review.
+6,Unspecified-current DVT/PE,Included,4121618,Pulmonary thromboembolism,RETAIN_PRIMARY_UNSPECIFIED,PE,UNSPECIFIED_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained after concept review.
+6,Unspecified-current DVT/PE,Included,40479606,Septic pulmonary embolism,RETAIN_PRIMARY_UNSPECIFIED,PE,UNSPECIFIED_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained after concept review.
+6,Unspecified-current DVT/PE,Included,4221821,Thrombophlebitis of deep veins of lower extremity,RETAIN_PRIMARY_UNSPECIFIED,DVT,UNSPECIFIED_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained after concept review.
+6,Unspecified-current DVT/PE,Included,440750,Thrombophlebitis of deep veins of upper extremities,RETAIN_PRIMARY_UNSPECIFIED,DVT,UNSPECIFIED_CURRENT,NONE,TYPICAL_OR_UNSPECIFIED,Retained after concept review.
+7,History/screening/suspected/rule-out,Excluded,4024219,At risk of deep vein thrombosis,EXCLUDE_NONCASE,DVT,NONCASE,NONE,NONQUALIFYING,Does not represent a qualifying current VTE record.
+8,Chronic/post-thrombotic VTE,Excluded,762420,Bilateral chronic deep venous thrombosis of lower extremities,EXCLUDE_CHRONIC,DVT,CHRONIC,NONE,TYPICAL_OR_UNSPECIFIED,Outside the primary current VTE phenotype.
+8,Chronic/post-thrombotic VTE,Excluded,765152,Chronic deep vein thrombosis of bilateral iliac veins,EXCLUDE_CHRONIC,DVT,CHRONIC,NONE,TYPICAL_OR_UNSPECIFIED,Outside the primary current VTE phenotype.
+8,Chronic/post-thrombotic VTE,Excluded,35616026,Chronic deep vein thrombosis of left iliac vein,EXCLUDE_CHRONIC,DVT,CHRONIC,NONE,TYPICAL_OR_UNSPECIFIED,Outside the primary current VTE phenotype.
+8,Chronic/post-thrombotic VTE,Excluded,46271548,Chronic deep vein thrombosis of pelvic vein,EXCLUDE_CHRONIC,DVT,CHRONIC,NONE,TYPICAL_OR_UNSPECIFIED,Outside the primary current VTE phenotype.
+8,Chronic/post-thrombotic VTE,Excluded,35616025,Chronic deep vein thrombosis of right iliac vein,EXCLUDE_CHRONIC,DVT,CHRONIC,NONE,TYPICAL_OR_UNSPECIFIED,Outside the primary current VTE phenotype.
+8,Chronic/post-thrombotic VTE,Excluded,762007,Chronic deep vein thrombosis of right upper extremity,EXCLUDE_CHRONIC,DVT,CHRONIC,NONE,TYPICAL_OR_UNSPECIFIED,Outside the primary current VTE phenotype.
+8,Chronic/post-thrombotic VTE,Excluded,36712971,Chronic deep venous thrombosis,EXCLUDE_CHRONIC,DVT,CHRONIC,NONE,TYPICAL_OR_UNSPECIFIED,Outside the primary current VTE phenotype.
+8,Chronic/post-thrombotic VTE,Excluded,762011,Chronic deep venous thrombosis of bilateral axillary veins,EXCLUDE_CHRONIC,DVT,CHRONIC,NONE,TYPICAL_OR_UNSPECIFIED,Outside the primary current VTE phenotype.
+8,Chronic/post-thrombotic VTE,Excluded,761445,Chronic deep venous thrombosis of bilateral calves,EXCLUDE_CHRONIC,DVT,CHRONIC,NONE,TYPICAL_OR_UNSPECIFIED,Outside the primary current VTE phenotype.
+8,Chronic/post-thrombotic VTE,Excluded,762023,Chronic deep venous thrombosis of bilateral popliteal veins,EXCLUDE_CHRONIC,DVT,CHRONIC,NONE,TYPICAL_OR_UNSPECIFIED,Outside the primary current VTE phenotype.
+8,Chronic/post-thrombotic VTE,Excluded,761449,Chronic deep venous thrombosis of bilateral thighs,EXCLUDE_CHRONIC,DVT,CHRONIC,NONE,TYPICAL_OR_UNSPECIFIED,Outside the primary current VTE phenotype.
+8,Chronic/post-thrombotic VTE,Excluded,762006,Chronic deep venous thrombosis of both upper extremities,EXCLUDE_CHRONIC,DVT,CHRONIC,NONE,TYPICAL_OR_UNSPECIFIED,Outside the primary current VTE phenotype.
+8,Chronic/post-thrombotic VTE,Excluded,44782734,Chronic deep venous thrombosis of calf,EXCLUDE_CHRONIC,DVT,CHRONIC,NONE,TYPICAL_OR_UNSPECIFIED,Outside the primary current VTE phenotype.
+8,Chronic/post-thrombotic VTE,Excluded,44782739,Chronic deep venous thrombosis of femoral vein,EXCLUDE_CHRONIC,DVT,CHRONIC,NONE,TYPICAL_OR_UNSPECIFIED,Outside the primary current VTE phenotype.
+8,Chronic/post-thrombotic VTE,Excluded,765153,Chronic deep venous thrombosis of femoral vein of left lower extremity,EXCLUDE_CHRONIC,DVT,CHRONIC,NONE,TYPICAL_OR_UNSPECIFIED,Outside the primary current VTE phenotype.
+8,Chronic/post-thrombotic VTE,Excluded,765154,Chronic deep venous thrombosis of femoral vein of right lower extremity,EXCLUDE_CHRONIC,DVT,CHRONIC,NONE,TYPICAL_OR_UNSPECIFIED,Outside the primary current VTE phenotype.
+8,Chronic/post-thrombotic VTE,Excluded,762014,Chronic deep venous thrombosis of femoral veins of both lower extremities,EXCLUDE_CHRONIC,DVT,CHRONIC,NONE,TYPICAL_OR_UNSPECIFIED,Outside the primary current VTE phenotype.
+8,Chronic/post-thrombotic VTE,Excluded,44782755,Chronic deep venous thrombosis of internal jugular vein,EXCLUDE_CHRONIC,DVT,CHRONIC,NONE,TYPICAL_OR_UNSPECIFIED,Outside the primary current VTE phenotype.
+8,Chronic/post-thrombotic VTE,Excluded,762012,Chronic deep venous thrombosis of left axillary vein,EXCLUDE_CHRONIC,DVT,CHRONIC,NONE,TYPICAL_OR_UNSPECIFIED,Outside the primary current VTE phenotype.
+8,Chronic/post-thrombotic VTE,Excluded,761447,Chronic deep venous thrombosis of left calf,EXCLUDE_CHRONIC,DVT,CHRONIC,NONE,TYPICAL_OR_UNSPECIFIED,Outside the primary current VTE phenotype.
+8,Chronic/post-thrombotic VTE,Excluded,762421,Chronic deep venous thrombosis of left lower extremity,EXCLUDE_CHRONIC,DVT,CHRONIC,NONE,TYPICAL_OR_UNSPECIFIED,Outside the primary current VTE phenotype.
+8,Chronic/post-thrombotic VTE,Excluded,765538,Chronic deep venous thrombosis of left upper extremity,EXCLUDE_CHRONIC,DVT,CHRONIC,NONE,TYPICAL_OR_UNSPECIFIED,Outside the primary current VTE phenotype.
+8,Chronic/post-thrombotic VTE,Excluded,44782735,Chronic deep venous thrombosis of lower extremity,EXCLUDE_CHRONIC,DVT,CHRONIC,NONE,TYPICAL_OR_UNSPECIFIED,Outside the primary current VTE phenotype.
+8,Chronic/post-thrombotic VTE,Excluded,44782736,Chronic deep venous thrombosis of popliteal vein,EXCLUDE_CHRONIC,DVT,CHRONIC,NONE,TYPICAL_OR_UNSPECIFIED,Outside the primary current VTE phenotype.
+8,Chronic/post-thrombotic VTE,Excluded,762024,Chronic deep venous thrombosis of popliteal vein of left leg,EXCLUDE_CHRONIC,DVT,CHRONIC,NONE,TYPICAL_OR_UNSPECIFIED,Outside the primary current VTE phenotype.
+8,Chronic/post-thrombotic VTE,Excluded,762025,Chronic deep venous thrombosis of popliteal vein of right leg,EXCLUDE_CHRONIC,DVT,CHRONIC,NONE,TYPICAL_OR_UNSPECIFIED,Outside the primary current VTE phenotype.
+8,Chronic/post-thrombotic VTE,Excluded,761450,Chronic deep venous thrombosis of right calf,EXCLUDE_CHRONIC,DVT,CHRONIC,NONE,TYPICAL_OR_UNSPECIFIED,Outside the primary current VTE phenotype.
+8,Chronic/post-thrombotic VTE,Excluded,762422,Chronic deep venous thrombosis of right lower extremity,EXCLUDE_CHRONIC,DVT,CHRONIC,NONE,TYPICAL_OR_UNSPECIFIED,Outside the primary current VTE phenotype.
+8,Chronic/post-thrombotic VTE,Excluded,44782738,Chronic deep venous thrombosis of thigh,EXCLUDE_CHRONIC,DVT,CHRONIC,NONE,TYPICAL_OR_UNSPECIFIED,Outside the primary current VTE phenotype.
+8,Chronic/post-thrombotic VTE,Excluded,44782737,Chronic deep venous thrombosis of tibial vein,EXCLUDE_CHRONIC,DVT,CHRONIC,NONE,TYPICAL_OR_UNSPECIFIED,Outside the primary current VTE phenotype.
+8,Chronic/post-thrombotic VTE,Excluded,762029,Chronic deep venous thrombosis of tibial vein of right leg,EXCLUDE_CHRONIC,DVT,CHRONIC,NONE,TYPICAL_OR_UNSPECIFIED,Outside the primary current VTE phenotype.
+8,Chronic/post-thrombotic VTE,Excluded,44782741,Chronic deep venous thrombosis of upper extremity,EXCLUDE_CHRONIC,DVT,CHRONIC,NONE,TYPICAL_OR_UNSPECIFIED,Outside the primary current VTE phenotype.
+8,Chronic/post-thrombotic VTE,Excluded,44782732,Chronic pulmonary embolism,EXCLUDE_CHRONIC,PE,CHRONIC,NONE,TYPICAL_OR_UNSPECIFIED,Outside the primary current VTE phenotype.
+8,Chronic/post-thrombotic VTE,Excluded,45768887,Chronic pulmonary thromboembolism,EXCLUDE_CHRONIC,PE,CHRONIC,NONE,TYPICAL_OR_UNSPECIFIED,Outside the primary current VTE phenotype.
+8,Chronic/post-thrombotic VTE,Excluded,619946,Right peroneal vein chronic deep venous thrombosis,EXCLUDE_CHRONIC,DVT,CHRONIC,NONE,TYPICAL_OR_UNSPECIFIED,Outside the primary current VTE phenotype.

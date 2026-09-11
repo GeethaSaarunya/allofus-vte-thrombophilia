@@ -1,0 +1,3 @@
+definition,positive_n,adjusted_or,ci_95_low,ci_95_high,p_value,included_in_revised_primary_burden
+all captured pre-enrollment pregnancy/postpartum history,23568,0.8812573680623305,0.8005869368918039,0.9700564835335329,0.009861250389302769,False
+pregnancy/postpartum within 365 days before primary consent,7421,1.0295290976641351,0.8546289640241435,1.2402226083542673,0.7593388018028315,False

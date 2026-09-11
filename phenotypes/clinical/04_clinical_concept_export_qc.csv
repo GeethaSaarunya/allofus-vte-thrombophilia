@@ -1,0 +1,9 @@
+check,status,value
+candidate_concept_set_nonempty,True,12114
+all_final_features_present,True,"cancer_history,fracture_or_major_trauma,infection_or_sepsis,inpatient_hospitalization,major_surgery,pregnancy_or_postpartum"
+infection_05A1_refinement_nonempty,True,633
+historical_hormone_excluded,True,True
+participant_level_output_written,True,False
+participant_counts_written,True,False
+05A_manual_override_rows,True,0
+05A1_manual_override_rows,True,0

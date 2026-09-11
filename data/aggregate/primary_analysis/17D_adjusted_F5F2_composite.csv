@@ -1,0 +1,2 @@
+analysis_role,model,term,beta,standard_error,odds_ratio,ci_95_low,ci_95_high,p_value,n
+supportive_composite_model,adjusted_f5f2_composite_five_factor,f5f2_carrier,0.6956957377644566,0.04007055844848718,2.005103615074113,1.8536514363886782,2.1689301603628253,1.6069782789164634e-67,358533

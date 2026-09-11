@@ -1,0 +1,26 @@
+file,status,detail
+data/aggregate/ancestry_sensitivity/18B_ancestry_model_eligibility.csv,PASS,No integer count-like values from 1 through 20 detected in count-like columns.
+data/aggregate/ancestry_sensitivity/18C_ancestry_stratified_F5_F2_five_factor.csv,PASS,No integer count-like values from 1 through 20 detected in count-like columns.
+data/aggregate/ancestry_sensitivity/18D_ancestry_heterogeneity_five_factor.csv,PASS,No integer count-like values from 1 through 20 detected in count-like columns.
+data/aggregate/primary_analysis/17B_Main_Table1_revised_five_factor.csv,PASS,No integer count-like values from 1 through 20 detected in count-like columns.
+data/aggregate/primary_analysis/17C_Main_Table2_adjusted_clinical.csv,PASS,No integer count-like values from 1 through 20 detected in count-like columns.
+data/aggregate/primary_analysis/17D_Main_Table3_targeted_variants.csv,PASS,No integer count-like values from 1 through 20 detected in count-like columns.
+data/aggregate/primary_analysis/17D_adjusted_F5F2_composite.csv,PASS,No integer count-like values from 1 through 20 detected in count-like columns.
+data/aggregate/primary_analysis/17E_Main_Figure3_chisquare.csv,PASS,No integer count-like values from 1 through 20 detected in count-like columns.
+data/aggregate/primary_analysis/17E_Main_Figure3_data.csv,PASS,No integer count-like values from 1 through 20 detected in count-like columns.
+data/aggregate/primary_analysis/17F_F5F2_additive_contrasts.csv,PASS,No integer count-like values from 1 through 20 detected in count-like columns.
+data/aggregate/primary_analysis/17F_F5F2_adjusted_probabilities.csv,PASS,No integer count-like values from 1 through 20 detected in count-like columns.
+data/aggregate/primary_analysis/17F_F5F2_interaction_global.csv,PASS,No integer count-like values from 1 through 20 detected in count-like columns.
+data/aggregate/primary_analysis/17G_S6_anticoagulant.csv,PASS,No integer count-like values from 1 through 20 detected in count-like columns.
+data/aggregate/primary_analysis/17G_S6_exact_count_interaction.csv,PASS,No integer count-like values from 1 through 20 detected in count-like columns.
+data/aggregate/primary_analysis/17G_S6_exact_count_trend.csv,PASS,No integer count-like values from 1 through 20 detected in count-like columns.
+data/aggregate/primary_analysis/17G_S6_finer_burden.csv,PASS,No integer count-like values from 1 through 20 detected in count-like columns.
+data/aggregate/primary_analysis/17G_S6_joint_seven_marker.csv,PASS,No integer count-like values from 1 through 20 detected in count-like columns.
+data/aggregate/primary_analysis/17G_S6_no_prior_VTE.csv,PASS,No integer count-like values from 1 through 20 detected in count-like columns.
+data/aggregate/primary_analysis/17H_S1_OOF_performance_calibration.csv,PASS,No integer count-like values from 1 through 20 detected in count-like columns.
+data/aggregate/primary_analysis/17H_S1_delta_AUC_bootstrap.csv,PASS,No integer count-like values from 1 through 20 detected in count-like columns.
+data/aggregate/primary_analysis/17I_S7_landmark_summary.csv,PASS,No integer count-like values from 1 through 20 detected in count-like columns.
+data/aggregate/primary_analysis/17I_S7_overall_cox.csv,PASS,No integer count-like values from 1 through 20 detected in count-like columns.
+data/aggregate/primary_analysis/17J_S7_interval_specific_cox.csv,PASS,No integer count-like values from 1 through 20 detected in count-like columns.
+data/aggregate/primary_analysis/17J_S7_time_variation_tests.csv,PASS,No integer count-like values from 1 through 20 detected in count-like columns.
+data/aggregate/primary_analysis/17L_pregnancy_postpartum_reviewer_response.csv,PASS,No integer count-like values from 1 through 20 detected in count-like columns.

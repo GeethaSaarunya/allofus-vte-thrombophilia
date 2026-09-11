@@ -1,0 +1,3 @@
+scale,wald_chi2,df,p_value
+multiplicative_odds,16.16358813867337,2,0.00030911596217834606
+adjusted_probability_difference,9.615503624290143,2,0.008166198223397262
