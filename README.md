@@ -26,6 +26,8 @@ The final manuscript analysis used the All of Us Controlled Tier Curated Data Re
 
 ## Secure inputs
 
+Use Python 3.12 with the dependencies listed in `requirements.txt`. The ancestry script uses nested f-string syntax supported from Python 3.12 onward; the validation workflow compiles all four Python scripts with Python 3.12.
+
 The Python analysis scripts require a participant-level master that remains inside the authorized All of Us environment. Set:
 
 ```bash

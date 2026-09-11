@@ -3,6 +3,8 @@
 Base public commit: `910a506ba66a4861eb1832bda6155fb6f06d1065`.
 
 - Restored both omitted repository support files from the prepared source package.
+- Corrected the restored workflow to use Python 3.12. The initial GitHub run on commit `728e3929557d58003f735cf3385a5bc6f340152a` used Python 3.11 and failed on the existing nested f-string in `02_ancestry_sensitivity.py` at line 831; the same failure was reproduced locally with Python 3.11.16. All four unchanged Python scripts compiled successfully with Python 3.12.14. Compilation does not execute the analyses or verify model results.
+- The R syntax job passed in [GitHub Actions run 34652988703](https://github.com/GeethaSaarunya/allofus-vte-thrombophilia/actions/runs/34652988703). It parsed the R script without rendering figures. A successful GitHub run of the corrected Python 3.12 workflow remains to be verified after upload.
 - Retained one concise README phenotype-provenance section and its link to detailed reproducibility notes.
 - Verified that all 56 scientific scripts, data, figures, phenotype files, and environment records are byte-identical to the public base commit.
 - Parsed citation YAML and checked software version 1.0.1, repository URL, and all-versions DOI.

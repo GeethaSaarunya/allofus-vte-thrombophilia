@@ -3,6 +3,7 @@
 This maintenance release corrects the public repository packaging for the All of Us VTE clinical-genetic burden reproducibility materials.
 
 - Restores `.gitignore` and `.github/workflows/validate.yml`, which were omitted during the v1.0.0 browser upload.
+- Sets Python syntax validation to Python 3.12 and documents that environment requirement, matching the existing ancestry script's nested f-string syntax.
 - Removes the duplicate provenance section at the end of the README, retaining the approved concise paragraph and its link to detailed reproducibility notes.
 - Regenerates the checksum manifest for the actual release contents.
 - Updates citation metadata to version 1.0.1 and adds the repository URL and all-versions Zenodo identifier.
