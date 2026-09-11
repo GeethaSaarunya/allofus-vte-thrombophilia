@@ -67,14 +67,9 @@ Public aggregate tables in this repository were selected from outputs used in th
 
 The final ancestry-stratified sensitivity results are in `data/aggregate/ancestry_sensitivity/` and supersede the empty ancestry placeholders created by the earlier primary rebuild.
 
-## Phenotype specifications
-
-## Phenotype specification provenance
-
 ## Phenotype specification provenance
 
 The deposited VTE and clinical-risk concept specifications were reconstructed from All of Us CDR v8 (C2024Q3R9) using the study’s rule-based curation procedures. The repository includes reconstruction scripts, concept-disposition tables, and accompanying source-discovery and quality-control records. Additional methodological details are provided in the [reproducibility notes](docs/REPRODUCIBILITY.md).
-
 
 **The count-free VTE and clinical-risk phenotype specifications generated in the authorized Workbench are included under `phenotypes/`. Their QC and source-discovery audits are included alongside them.**
 
