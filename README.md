@@ -69,13 +69,13 @@ The final ancestry-stratified sensitivity results are in `data/aggregate/ancestr
 
 ## Phenotype specifications
 
-The manuscript reports exact VTE and clinical phenotype definitions in the Supplement. `scripts/03_export_vte_concept_specification.py` is included so the frozen VTE concept-disposition files can be exported inside the authorized Workbench before the final public release.
+The manuscript describes VTE and clinical phenotype definitions in its Supplement. The count-free specifications and the reconstruction/export utilities are already included here. See the provenance qualification below when interpreting the reconstructed clinical specification.
 
 **The count-free VTE and clinical-risk phenotype specifications generated in the authorized Workbench are included under `phenotypes/`. Their QC and source-discovery audits are included alongside them.**
 
 ## Citation
 
-See `CITATION.cff`. A Zenodo DOI and journal DOI should be added after they are assigned.
+See `CITATION.cff`, which identifies software version **1.0.0**. Add the actual repository URL and assigned Zenodo DOI when available. Add the associated article citation after publication; a journal DOI is not needed to release these review materials.
 
 ## Funding
 
@@ -83,7 +83,11 @@ Supported by NIH/NIGMS 5R35GM149345 and NIH/NCATS UM1TR004405.
 
 ## Status
 
-This repository package is prepared for manuscript submission. Recommended public release tag: `v1.0.0` at acceptance/publication.
+**Version 1.0.0 — manuscript submission and peer-review materials.**
+
+This package is prepared for public release at manuscript submission so editors and reviewers can inspect the analysis code, aggregate source results, figures, and phenotype documentation. Use GitHub release tag **`v1.0.0`** and archive that version in Zenodo. Journal acceptance is not a prerequisite for this release, and the software version does not imply that the article is accepted or published.
+
+See [Reviewer guide](docs/REVIEWER_GUIDE.md), [release notes](docs/RELEASE_NOTES.md), and [release steps](docs/RELEASE_CHECKLIST.md). Any later substantive revision should receive a new release version so the reviewed snapshot remains identifiable.
 
 ## Phenotype reconstruction provenance
 

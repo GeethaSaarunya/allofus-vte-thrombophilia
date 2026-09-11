@@ -18,7 +18,7 @@ The final WGS analysis cohort contained 358,533 participants, including 7,553 wi
 
 ## Primary clinical construct
 
-The final primary clinical-risk burden contains five prespecified factors:
+The final primary clinical-risk burden contains the following five factors after the pregnancy-timing revision:
 
 - cancer history
 - major surgery
@@ -42,3 +42,7 @@ In the final WGS analysis cohort, median available post-enrollment EHR follow-up
 ## Phenotype reconstruction boundary
 
 The clinical reconstruction source-discovery audit did not recover the historical optional Script 05A or 05A1 manual-override files. The deposited clinical concept specification therefore reflects the locked CDR plus the original rule-based 05A/05A1 classification logic. This provenance boundary is retained in the repository rather than being silently treated as a frozen-file recovery.
+
+## Reviewer access and execution
+
+Version 1.0.0 is prepared for public access during manuscript submission and peer review. Reviewers can inspect all packaged methods, aggregate results, and phenotype documentation without All of Us access. Local figure rendering uses the included aggregate ZIP. The model scripts start from an existing secure participant master; this package does not by itself rebuild that master from raw CDR tables. Controlled Tier authorization and the required secure inputs are necessary to repeat participant-level analyses. See `REVIEWER_GUIDE.md`.
