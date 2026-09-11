@@ -1,0 +1,25 @@
+# OS/editor
+.DS_Store
+__MACOSX/
+.Rhistory
+.RData
+.Rproj.user/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Never commit participant-level or secure analysis data
+*.parquet
+*.feather
+*.pickle
+*.pkl
+*.sas7bdat
+*.dta
+*.sav
+secure/
+participant_level/
+data/raw/
+
+# Local outputs
+outputs/
+tmp/
